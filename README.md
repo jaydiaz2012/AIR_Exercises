@@ -5,8 +5,10 @@
 <p>You can access the model here: <a href="https://huggingface.co/jaydiaz2023/gemma-2b-instruct-reasoning"> Fine Tuned Model</a></p>
 <h2>Acknowledgement</h2>
 <p>Thanks to the AI Republic, the mentors, Xyrel, Danielle, Sir Carlo and Amber for their support.</p>
+###
+
 <h1>Info About Me:</h1>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
