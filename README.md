@@ -1,8 +1,8 @@
 <h1>Fine Tuned Gemma Model for a synthetic dataset of reasoning chains for a wide variety of tasks </h1>
 <h2>Source File:</h2>
-<p>This is the source file: <a>https://huggingface.co/datasets/SkunkworksAI/reasoning-0.01</a></p>
+<p>This is the source file: <a href="https://huggingface.co/datasets/SkunkworksAI/reasoning-0.01"> Synthetic Data for Reasoning Prompts</a></p>
 <h2>Model Access</h2>
-<p>You can access the model here: <a>https://huggingface.co/jaydiaz2023/gemma-2b-instruct-reasoning</a></p>
+<p>You can access the model here: <a href="https://huggingface.co/jaydiaz2023/gemma-2b-instruct-reasoning"> Fine Tuned Model</a></p>
 <h2>Acknowledgement</h2>
 <p>Thanks to the AI Republic, the mentors, Xyrel, Danielle, Sir Carlo and Amber for their support.</p>
 <h1>Info About Me:</h1>
